@@ -47,7 +47,7 @@ function App() {
     </div>
   );
 }
-// the sentences in `` are template literals
+// the sentences in `` are template literals, to add sentences in an easier way
 // A room in socket.io is a place where both the users talk to each other
 // room has a specific id, so all the people in that room will get to see that mssg
 export default App;
